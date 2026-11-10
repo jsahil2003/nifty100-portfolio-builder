@@ -1,0 +1,7 @@
+streamlit>=1.37
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+arch>=7.0
+cvxpy>=1.5
+scikit-learn>=1.5

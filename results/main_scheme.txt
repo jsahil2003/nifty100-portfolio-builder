@@ -1,0 +1,4 @@
+CRITIC + weighted sum
+monthly
+open_vs_med21, max_return, momentum
+CRITIC + weighted sum, Max Sharpe, half-yearly
